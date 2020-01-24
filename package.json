@@ -47,8 +47,8 @@
     "typescript": "~3.5.3"
   },
   "engines": {
-    "node":"~node -v",
-    "npm":"~npm -v"
+    "node":"~12.14.0",
+    "npm":"~6.13.4"
 
   }
 }
